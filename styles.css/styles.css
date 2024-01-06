@@ -186,6 +186,10 @@ main{
     font-size: 25px;
     font-weight: 700;
 }
+
+#summary{
+    margin-top: 130px;
+}
 .resume-item-info{
     color: var(--Dark-02, #474747);
     font-size: 25px;
